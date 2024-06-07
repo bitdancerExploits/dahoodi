@@ -1,0 +1,22 @@
+[workspace] gravity offset > 0x0
+[player] character offset >  0x298
+[player] name offset >  0x48
+
+
+[humanoid] walkspeed offset > 0x1b0
+[humanoid] walkspeed check offset > 0x388
+[humanoid] health offset > 0x178
+[humanoid] jumppower offset > 0x190
+[humanoid] hipheight offset > 0x180
+[humanoid] slopeangle offset > 0x198
+
+
+[datamodel] game id offset > 0x160
+[datamodel] job id offset >  0x100
+
+
+[camera] current cam offset > 0x420
+[camera] cam pos offset >  0x268
+[camera] camera x offset > 0xf4
+[camera] camera y offset > 0xf8
+[camera] camera z offset > 0xfc
