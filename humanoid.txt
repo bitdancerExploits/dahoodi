@@ -1,0 +1,6 @@
+[humanoid] walkspeed offset > 0x1b0
+[humanoid] walkspeed check offset > 0x388
+[humanoid] health offset > 0x178
+[humanoid] jumppower offset > 0x190
+[humanoid] hipheight offset > 0x180
+[humanoid] slopeangle offset > 0x198
