@@ -1,0 +1,5 @@
+[camera] current cam offset > 0x420
+[camera] cam pos offset >  0x268
+[camera] camera x offset > 0xf4
+[camera] camera y offset > 0xf8
+[camera] camera z offset > 0xfc
