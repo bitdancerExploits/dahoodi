@@ -1,0 +1,2 @@
+[datamodel] game id offset > 0x160
+[datamodel] job id offset >  0x100
