@@ -1,0 +1,3 @@
+[workspace] gravity offset > 0x0
+[player] character offset >  0x298
+[player] name offset >  0x48
